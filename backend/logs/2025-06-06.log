@@ -1,0 +1,479 @@
+2025-06-06 00:31:58,209 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:31:58,210 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:34:23,696 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:34:23,697 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:47:25,925 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:47:25,926 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:48:32,833 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:48:32,835 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:49:17,854 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:49:17,854 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:51:01,777 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:51:01,777 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:51:01,882 - HealthService - DEBUG - Initializing HealthService
+2025-06-06 00:51:01,882 - HealthService - DEBUG - HealthService initialized with diabetes model and activity level multipliers
+2025-06-06 00:51:01,882 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:51:01,882 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:51:01,882 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:51:01,882 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:51:06,177 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:51:06,177 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:51:06,296 - HealthService - DEBUG - Initializing HealthService
+2025-06-06 00:51:06,296 - HealthService - DEBUG - HealthService initialized with diabetes model and activity level multipliers
+2025-06-06 00:51:06,296 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:51:06,296 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:51:06,296 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:51:06,296 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:51:53,331 - UserService - DEBUG - Processing login for email: test@example.com
+2025-06-06 00:51:53,331 - UserService - DEBUG - Processing login for email: test@example.com
+2025-06-06 00:51:54,158 - UserService - DEBUG - User found: Gcxg1VaLhFbx31JM4mDKwIOqE2u1
+2025-06-06 00:51:54,158 - UserService - DEBUG - User found: Gcxg1VaLhFbx31JM4mDKwIOqE2u1
+2025-06-06 00:51:54,165 - UserService - DEBUG - Custom token created for login
+2025-06-06 00:51:54,165 - UserService - DEBUG - Custom token created for login
+2025-06-06 00:51:55,404 - UserService - DEBUG - Last login timestamp updated
+2025-06-06 00:51:55,404 - UserService - DEBUG - Last login timestamp updated
+2025-06-06 00:52:18,113 - AIService - ERROR - Error in chat: 'AIService' object has no attribute 'model'
+2025-06-06 00:52:18,113 - AIService - ERROR - Error in chat: 'AIService' object has no attribute 'model'
+2025-06-06 00:52:18,113 - AIService - ERROR - Error in chat: 'AIService' object has no attribute 'model'
+2025-06-06 00:52:18,113 - UserRoutes - ERROR - Error in chat: 'AIService' object has no attribute 'model'
+2025-06-06 00:53:26,835 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:53:26,835 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:53:26,964 - HealthService - DEBUG - Initializing HealthService
+2025-06-06 00:53:26,964 - HealthService - DEBUG - HealthService initialized with diabetes model and activity level multipliers
+2025-06-06 00:53:26,966 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:53:26,966 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:53:26,967 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:53:26,967 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:53:34,789 - AIService - ERROR - Error in chat: Chats.create() missing 1 required keyword-only argument: 'model'
+2025-06-06 00:53:34,789 - AIService - ERROR - Error in chat: Chats.create() missing 1 required keyword-only argument: 'model'
+2025-06-06 00:53:34,789 - AIService - ERROR - Error in chat: Chats.create() missing 1 required keyword-only argument: 'model'
+2025-06-06 00:53:34,805 - UserRoutes - ERROR - Error in chat: Chats.create() missing 1 required keyword-only argument: 'model'
+2025-06-06 00:54:05,930 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:54:05,930 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:54:06,044 - HealthService - DEBUG - Initializing HealthService
+2025-06-06 00:54:06,044 - HealthService - DEBUG - HealthService initialized with diabetes model and activity level multipliers
+2025-06-06 00:54:06,044 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:54:06,044 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:54:06,044 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:54:06,044 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:54:12,688 - AIService - ERROR - Error in chat: History must start with a user turn.
+2025-06-06 00:54:12,688 - AIService - ERROR - Error in chat: History must start with a user turn.
+2025-06-06 00:54:12,688 - AIService - ERROR - Error in chat: History must start with a user turn.
+2025-06-06 00:54:12,688 - UserRoutes - ERROR - Error in chat: History must start with a user turn.
+2025-06-06 00:54:42,017 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:54:42,019 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:54:42,132 - HealthService - DEBUG - Initializing HealthService
+2025-06-06 00:54:42,132 - HealthService - DEBUG - HealthService initialized with diabetes model and activity level multipliers
+2025-06-06 00:54:42,140 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:54:42,140 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:54:42,140 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:54:42,140 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:54:48,149 - AIService - ERROR - Error in chat: History must start with a user turn.
+2025-06-06 00:54:48,149 - AIService - ERROR - Error in chat: History must start with a user turn.
+2025-06-06 00:54:48,149 - AIService - ERROR - Error in chat: History must start with a user turn.
+2025-06-06 00:54:48,149 - UserRoutes - ERROR - Error in chat: History must start with a user turn.
+2025-06-06 00:55:37,040 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:55:37,040 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:55:37,136 - HealthService - DEBUG - Initializing HealthService
+2025-06-06 00:55:37,136 - HealthService - DEBUG - HealthService initialized with diabetes model and activity level multipliers
+2025-06-06 00:55:37,136 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:55:37,136 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:55:37,136 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:55:37,136 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:56:29,775 - FoodRoutes - DEBUG - Getting macro breakdown for food item: peanuts
+2025-06-06 00:56:29,783 - AIService - DEBUG - Getting macro breakdown for food: peanuts
+2025-06-06 00:56:29,783 - AIService - DEBUG - Getting macro breakdown for food: peanuts
+2025-06-06 00:56:29,783 - AIService - DEBUG - Getting macro breakdown for food: peanuts
+2025-06-06 00:56:29,783 - AIService - DEBUG - Getting response for prompt: Return the macro breakdown of peanuts.
+        Return a list of MacroBreakdown objects with nutrient...
+2025-06-06 00:56:29,783 - AIService - DEBUG - Getting response for prompt: Return the macro breakdown of peanuts.
+        Return a list of MacroBreakdown objects with nutrient...
+2025-06-06 00:56:29,783 - AIService - DEBUG - Getting response for prompt: Return the macro breakdown of peanuts.
+        Return a list of MacroBreakdown objects with nutrient...
+2025-06-06 00:56:29,783 - AIService - DEBUG - Output class: MacroBreakdown
+2025-06-06 00:56:29,783 - AIService - DEBUG - Output class: MacroBreakdown
+2025-06-06 00:56:29,783 - AIService - DEBUG - Output class: MacroBreakdown
+2025-06-06 00:56:29,783 - AIService - ERROR - Error getting response: 'Client' object has no attribute 'generate_content'
+2025-06-06 00:56:29,783 - AIService - ERROR - Error getting response: 'Client' object has no attribute 'generate_content'
+2025-06-06 00:56:29,783 - AIService - ERROR - Error getting response: 'Client' object has no attribute 'generate_content'
+2025-06-06 00:56:29,783 - AIService - ERROR - Error getting macro breakdown: 'Client' object has no attribute 'generate_content'
+2025-06-06 00:56:29,783 - AIService - ERROR - Error getting macro breakdown: 'Client' object has no attribute 'generate_content'
+2025-06-06 00:56:29,783 - AIService - ERROR - Error getting macro breakdown: 'Client' object has no attribute 'generate_content'
+2025-06-06 00:56:29,791 - FoodRoutes - ERROR - Error in diet: 'Client' object has no attribute 'generate_content'
+2025-06-06 00:57:25,387 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:57:25,387 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:57:25,482 - HealthService - DEBUG - Initializing HealthService
+2025-06-06 00:57:25,482 - HealthService - DEBUG - HealthService initialized with diabetes model and activity level multipliers
+2025-06-06 00:57:25,482 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:57:25,482 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:57:25,482 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:57:25,482 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:57:38,712 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:57:38,712 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:57:38,812 - HealthService - DEBUG - Initializing HealthService
+2025-06-06 00:57:38,812 - HealthService - DEBUG - HealthService initialized with diabetes model and activity level multipliers
+2025-06-06 00:57:38,812 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:57:38,812 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:57:38,821 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:57:38,821 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:57:45,887 - FoodRoutes - DEBUG - Getting macro breakdown for food item: peanuts
+2025-06-06 00:57:45,887 - AIService - DEBUG - Getting macro breakdown for food: peanuts
+2025-06-06 00:57:45,887 - AIService - DEBUG - Getting macro breakdown for food: peanuts
+2025-06-06 00:57:45,887 - AIService - DEBUG - Getting macro breakdown for food: peanuts
+2025-06-06 00:57:45,887 - AIService - DEBUG - Getting response for prompt: Return the macro breakdown of peanuts.
+        Return a list of MacroBreakdown objects with nutrient...
+2025-06-06 00:57:45,887 - AIService - DEBUG - Getting response for prompt: Return the macro breakdown of peanuts.
+        Return a list of MacroBreakdown objects with nutrient...
+2025-06-06 00:57:45,887 - AIService - DEBUG - Getting response for prompt: Return the macro breakdown of peanuts.
+        Return a list of MacroBreakdown objects with nutrient...
+2025-06-06 00:57:45,887 - AIService - DEBUG - Output class: MacroBreakdown
+2025-06-06 00:57:45,887 - AIService - DEBUG - Output class: MacroBreakdown
+2025-06-06 00:57:45,887 - AIService - DEBUG - Output class: MacroBreakdown
+2025-06-06 00:57:45,897 - AIService - ERROR - Error getting response: Models.generate_content() missing 1 required keyword-only argument: 'model'
+2025-06-06 00:57:45,897 - AIService - ERROR - Error getting response: Models.generate_content() missing 1 required keyword-only argument: 'model'
+2025-06-06 00:57:45,897 - AIService - ERROR - Error getting response: Models.generate_content() missing 1 required keyword-only argument: 'model'
+2025-06-06 00:57:45,897 - AIService - ERROR - Error getting macro breakdown: Models.generate_content() missing 1 required keyword-only argument: 'model'
+2025-06-06 00:57:45,897 - AIService - ERROR - Error getting macro breakdown: Models.generate_content() missing 1 required keyword-only argument: 'model'
+2025-06-06 00:57:45,897 - AIService - ERROR - Error getting macro breakdown: Models.generate_content() missing 1 required keyword-only argument: 'model'
+2025-06-06 00:57:45,901 - FoodRoutes - ERROR - Error in diet: Models.generate_content() missing 1 required keyword-only argument: 'model'
+2025-06-06 00:58:16,829 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:58:16,829 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:58:16,956 - HealthService - DEBUG - Initializing HealthService
+2025-06-06 00:58:16,956 - HealthService - DEBUG - HealthService initialized with diabetes model and activity level multipliers
+2025-06-06 00:58:16,957 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:58:16,957 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:58:16,958 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:58:16,958 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:58:24,254 - FoodRoutes - DEBUG - Getting macro breakdown for food item: peanuts
+2025-06-06 00:58:24,254 - AIService - DEBUG - Getting macro breakdown for food: peanuts
+2025-06-06 00:58:24,254 - AIService - DEBUG - Getting macro breakdown for food: peanuts
+2025-06-06 00:58:24,254 - AIService - DEBUG - Getting macro breakdown for food: peanuts
+2025-06-06 00:58:24,264 - AIService - DEBUG - Getting response for prompt: Return the macro breakdown of peanuts.
+        Return a list of MacroBreakdown objects with nutrient...
+2025-06-06 00:58:24,264 - AIService - DEBUG - Getting response for prompt: Return the macro breakdown of peanuts.
+        Return a list of MacroBreakdown objects with nutrient...
+2025-06-06 00:58:24,264 - AIService - DEBUG - Getting response for prompt: Return the macro breakdown of peanuts.
+        Return a list of MacroBreakdown objects with nutrient...
+2025-06-06 00:58:24,267 - AIService - DEBUG - Output class: MacroBreakdown
+2025-06-06 00:58:24,267 - AIService - DEBUG - Output class: MacroBreakdown
+2025-06-06 00:58:24,267 - AIService - DEBUG - Output class: MacroBreakdown
+2025-06-06 00:58:25,615 - AIService - DEBUG - Response received: [
+  {
+    "nutrient": "Calories",
+    "amount": "567 kcal"
+  },
+  {
+    "nutrient": "Protein",
+    "...
+2025-06-06 00:58:25,615 - AIService - DEBUG - Response received: [
+  {
+    "nutrient": "Calories",
+    "amount": "567 kcal"
+  },
+  {
+    "nutrient": "Protein",
+    "...
+2025-06-06 00:58:25,615 - AIService - DEBUG - Response received: [
+  {
+    "nutrient": "Calories",
+    "amount": "567 kcal"
+  },
+  {
+    "nutrient": "Protein",
+    "...
+2025-06-06 00:58:25,617 - AIService - DEBUG - Macro breakdown generated successfully
+2025-06-06 00:58:25,617 - AIService - DEBUG - Macro breakdown generated successfully
+2025-06-06 00:58:25,617 - AIService - DEBUG - Macro breakdown generated successfully
+2025-06-06 00:58:25,617 - FoodRoutes - DEBUG - Saving diet query to Firestore
+2025-06-06 00:59:09,398 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:59:09,400 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:59:09,499 - HealthService - DEBUG - Initializing HealthService
+2025-06-06 00:59:09,499 - HealthService - DEBUG - HealthService initialized with diabetes model and activity level multipliers
+2025-06-06 00:59:09,499 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:59:09,499 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:59:09,499 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:59:09,499 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:59:13,444 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:59:13,444 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:59:13,538 - HealthService - DEBUG - Initializing HealthService
+2025-06-06 00:59:13,538 - HealthService - DEBUG - HealthService initialized with diabetes model and activity level multipliers
+2025-06-06 00:59:13,538 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:59:13,538 - UserService - DEBUG - Initializing UserService
+2025-06-06 00:59:13,538 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 00:59:13,538 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:20:05,112 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:20:05,112 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:20:05,210 - HealthService - DEBUG - Initializing HealthService
+2025-06-06 02:20:05,210 - HealthService - DEBUG - HealthService initialized with diabetes model and activity level multipliers
+2025-06-06 02:20:05,210 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:20:05,210 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:20:05,210 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:20:05,210 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:20:08,971 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:20:08,971 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:20:09,076 - HealthService - DEBUG - Initializing HealthService
+2025-06-06 02:20:09,076 - HealthService - DEBUG - HealthService initialized with diabetes model and activity level multipliers
+2025-06-06 02:20:09,076 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:20:09,076 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:20:09,076 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:20:09,076 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:20:17,860 - UserService - DEBUG - Processing login for email: test@example.com
+2025-06-06 02:20:17,860 - UserService - DEBUG - Processing login for email: test@example.com
+2025-06-06 02:20:18,527 - UserService - DEBUG - User found: Gcxg1VaLhFbx31JM4mDKwIOqE2u1
+2025-06-06 02:20:18,527 - UserService - DEBUG - User found: Gcxg1VaLhFbx31JM4mDKwIOqE2u1
+2025-06-06 02:20:18,530 - UserService - DEBUG - Custom token created for login
+2025-06-06 02:20:18,530 - UserService - DEBUG - Custom token created for login
+2025-06-06 02:20:19,733 - UserService - DEBUG - Last login timestamp updated
+2025-06-06 02:20:19,733 - UserService - DEBUG - Last login timestamp updated
+2025-06-06 02:20:33,595 - UserService - DEBUG - Getting user data for user_id: Gcxg1VaLhFbx31JM4mDKwIOqE2u1
+2025-06-06 02:20:33,595 - UserService - DEBUG - Getting user data for user_id: Gcxg1VaLhFbx31JM4mDKwIOqE2u1
+2025-06-06 02:20:33,852 - UserService - DEBUG - User data retrieved successfully: {'ethnicity': 'Asian', 'height': 175, 'goal': 'Lose Weight', 'blood_glucose': 95, 'sex': 'Male', 'smoking_history': 'never', 'location': 'California', 'weight': 75, 'last_metrics': {'bmi': 24.489795918367346, 'macros': {'protein': 204.90829499999998, 'fat': 75.89196111111112, 'carbs': 307.3624425}, 'tdee': 2732.1106, 'bmr': 1762.652, 'bmi_class': 'normal weight', 'calculated_at': DatetimeWithNanoseconds(2025, 6, 4, 18, 0, 54, 885000, tzinfo=datetime.timezone.utc)}, 'heart_disease': 'No', 'age': 30, 'vegan': False, 'activity_level': 'Moderately Active', 'race': 'Asian', 'hba1c': 5.7, 'hypertension': 'No', 'last_login': DatetimeWithNanoseconds(2025, 6, 5, 23, 20, 18, 964000, tzinfo=datetime.timezone.utc)}
+2025-06-06 02:20:33,852 - UserService - DEBUG - User data retrieved successfully: {'ethnicity': 'Asian', 'height': 175, 'goal': 'Lose Weight', 'blood_glucose': 95, 'sex': 'Male', 'smoking_history': 'never', 'location': 'California', 'weight': 75, 'last_metrics': {'bmi': 24.489795918367346, 'macros': {'protein': 204.90829499999998, 'fat': 75.89196111111112, 'carbs': 307.3624425}, 'tdee': 2732.1106, 'bmr': 1762.652, 'bmi_class': 'normal weight', 'calculated_at': DatetimeWithNanoseconds(2025, 6, 4, 18, 0, 54, 885000, tzinfo=datetime.timezone.utc)}, 'heart_disease': 'No', 'age': 30, 'vegan': False, 'activity_level': 'Moderately Active', 'race': 'Asian', 'hba1c': 5.7, 'hypertension': 'No', 'last_login': DatetimeWithNanoseconds(2025, 6, 5, 23, 20, 18, 964000, tzinfo=datetime.timezone.utc)}
+2025-06-06 02:20:33,853 - HealthService - DEBUG - Calculating BMI for person info: {'ethnicity': 'Asian', 'height': 175, 'goal': 'Lose Weight', 'blood_glucose': 95, 'sex': 'Male', 'smoking_history': 'never', 'location': 'California', 'weight': 75, 'last_metrics': {'bmi': 24.489795918367346, 'macros': {'protein': 204.90829499999998, 'fat': 75.89196111111112, 'carbs': 307.3624425}, 'tdee': 2732.1106, 'bmr': 1762.652, 'bmi_class': 'normal weight', 'calculated_at': DatetimeWithNanoseconds(2025, 6, 4, 18, 0, 54, 885000, tzinfo=datetime.timezone.utc)}, 'heart_disease': 'No', 'age': 30, 'vegan': False, 'activity_level': 'Moderately Active', 'race': 'Asian', 'hba1c': 5.7, 'hypertension': 'No', 'last_login': DatetimeWithNanoseconds(2025, 6, 5, 23, 20, 18, 964000, tzinfo=datetime.timezone.utc)}
+2025-06-06 02:20:33,853 - HealthService - DEBUG - BMI calculated: 24.489795918367346, Classification: normal weight
+2025-06-06 02:20:33,853 - HealthService - DEBUG - Calculating energy metrics for person info: {'ethnicity': 'Asian', 'height': 175, 'goal': 'Lose Weight', 'blood_glucose': 95, 'sex': 'Male', 'smoking_history': 'never', 'location': 'California', 'weight': 75, 'last_metrics': {'bmi': 24.489795918367346, 'macros': {'protein': 204.90829499999998, 'fat': 75.89196111111112, 'carbs': 307.3624425}, 'tdee': 2732.1106, 'bmr': 1762.652, 'bmi_class': 'normal weight', 'calculated_at': DatetimeWithNanoseconds(2025, 6, 4, 18, 0, 54, 885000, tzinfo=datetime.timezone.utc)}, 'heart_disease': 'No', 'age': 30, 'vegan': False, 'activity_level': 'Moderately Active', 'race': 'Asian', 'hba1c': 5.7, 'hypertension': 'No', 'last_login': DatetimeWithNanoseconds(2025, 6, 5, 23, 20, 18, 964000, tzinfo=datetime.timezone.utc)}
+2025-06-06 02:20:33,853 - HealthService - DEBUG - Energy metrics calculated - BMR: 1762.65, TDEE: 2732.11
+2025-06-06 02:20:33,854 - AIService - DEBUG - Generating diet plan for user data: {'ethnicity': 'Asian', 'height': 175, 'goal': 'Lose Weight', 'blood_glucose': 95, 'sex': 'Male', 'smoking_history': 'never', 'location': 'California', 'weight': 75, 'last_metrics': {'bmi': 24.489795918367346, 'macros': {'protein': 204.90829499999998, 'fat': 75.89196111111112, 'carbs': 307.3624425}, 'tdee': 2732.1106, 'bmr': 1762.652, 'bmi_class': 'normal weight', 'calculated_at': DatetimeWithNanoseconds(2025, 6, 4, 18, 0, 54, 885000, tzinfo=datetime.timezone.utc)}, 'heart_disease': 'No', 'age': 30, 'vegan': False, 'activity_level': 'Moderately Active', 'race': 'Asian', 'hba1c': 5.7, 'hypertension': 'No', 'last_login': DatetimeWithNanoseconds(2025, 6, 5, 23, 20, 18, 964000, tzinfo=datetime.timezone.utc), 'bmi': 24.489795918367346, 'bmr': 1762.652, 'tdee': 2732.1106}
+2025-06-06 02:20:33,854 - AIService - DEBUG - Generating diet plan for user data: {'ethnicity': 'Asian', 'height': 175, 'goal': 'Lose Weight', 'blood_glucose': 95, 'sex': 'Male', 'smoking_history': 'never', 'location': 'California', 'weight': 75, 'last_metrics': {'bmi': 24.489795918367346, 'macros': {'protein': 204.90829499999998, 'fat': 75.89196111111112, 'carbs': 307.3624425}, 'tdee': 2732.1106, 'bmr': 1762.652, 'bmi_class': 'normal weight', 'calculated_at': DatetimeWithNanoseconds(2025, 6, 4, 18, 0, 54, 885000, tzinfo=datetime.timezone.utc)}, 'heart_disease': 'No', 'age': 30, 'vegan': False, 'activity_level': 'Moderately Active', 'race': 'Asian', 'hba1c': 5.7, 'hypertension': 'No', 'last_login': DatetimeWithNanoseconds(2025, 6, 5, 23, 20, 18, 964000, tzinfo=datetime.timezone.utc), 'bmi': 24.489795918367346, 'bmr': 1762.652, 'tdee': 2732.1106}
+2025-06-06 02:20:33,854 - AIService - DEBUG - Generating diet plan for user data: {'ethnicity': 'Asian', 'height': 175, 'goal': 'Lose Weight', 'blood_glucose': 95, 'sex': 'Male', 'smoking_history': 'never', 'location': 'California', 'weight': 75, 'last_metrics': {'bmi': 24.489795918367346, 'macros': {'protein': 204.90829499999998, 'fat': 75.89196111111112, 'carbs': 307.3624425}, 'tdee': 2732.1106, 'bmr': 1762.652, 'bmi_class': 'normal weight', 'calculated_at': DatetimeWithNanoseconds(2025, 6, 4, 18, 0, 54, 885000, tzinfo=datetime.timezone.utc)}, 'heart_disease': 'No', 'age': 30, 'vegan': False, 'activity_level': 'Moderately Active', 'race': 'Asian', 'hba1c': 5.7, 'hypertension': 'No', 'last_login': DatetimeWithNanoseconds(2025, 6, 5, 23, 20, 18, 964000, tzinfo=datetime.timezone.utc), 'bmi': 24.489795918367346, 'bmr': 1762.652, 'tdee': 2732.1106}
+2025-06-06 02:20:33,854 - AIService - DEBUG - Preferences: high protein, low carb
+2025-06-06 02:20:33,854 - AIService - DEBUG - Preferences: high protein, low carb
+2025-06-06 02:20:33,854 - AIService - DEBUG - Preferences: high protein, low carb
+2025-06-06 02:20:33,854 - AIService - DEBUG - Getting response for prompt: Create a diet plan with the preferences: high protein, low carb and vegan: False 
+        for a 30yo...
+2025-06-06 02:20:33,854 - AIService - DEBUG - Getting response for prompt: Create a diet plan with the preferences: high protein, low carb and vegan: False 
+        for a 30yo...
+2025-06-06 02:20:33,854 - AIService - DEBUG - Getting response for prompt: Create a diet plan with the preferences: high protein, low carb and vegan: False 
+        for a 30yo...
+2025-06-06 02:20:33,855 - AIService - DEBUG - Output class: DietPlan
+2025-06-06 02:20:33,855 - AIService - DEBUG - Output class: DietPlan
+2025-06-06 02:20:33,855 - AIService - DEBUG - Output class: DietPlan
+2025-06-06 02:20:36,518 - AIService - DEBUG - Response received: [
+  {
+    "mealtime": "Breakfast",
+    "foodItem": "Omelette with Spinach and Mushrooms",
+    "calor...
+2025-06-06 02:20:36,518 - AIService - DEBUG - Response received: [
+  {
+    "mealtime": "Breakfast",
+    "foodItem": "Omelette with Spinach and Mushrooms",
+    "calor...
+2025-06-06 02:20:36,518 - AIService - DEBUG - Response received: [
+  {
+    "mealtime": "Breakfast",
+    "foodItem": "Omelette with Spinach and Mushrooms",
+    "calor...
+2025-06-06 02:20:36,519 - AIService - DEBUG - Diet plan generated successfully
+2025-06-06 02:20:36,519 - AIService - DEBUG - Diet plan generated successfully
+2025-06-06 02:20:36,519 - AIService - DEBUG - Diet plan generated successfully
+2025-06-06 02:23:37,242 - FoodRoutes - DEBUG - Saved uploaded file to temp_OIP.jpg
+2025-06-06 02:23:37,242 - FoodRoutes - DEBUG - Initializing Clarifai model
+2025-06-06 02:23:37,252 - FoodRoutes - DEBUG - Running food recognition
+2025-06-06 02:23:38,129 - FoodRoutes - DEBUG - Food recognized: strawberry (confidence: 0.9959460496902466)
+2025-06-06 02:23:38,129 - FoodRoutes - DEBUG - Generating recipe
+2025-06-06 02:23:38,130 - AIService - DEBUG - Generating recipe for food: strawberry
+2025-06-06 02:23:38,130 - AIService - DEBUG - Generating recipe for food: strawberry
+2025-06-06 02:23:38,130 - AIService - DEBUG - Generating recipe for food: strawberry
+2025-06-06 02:23:38,131 - AIService - DEBUG - Getting response for prompt: Generate a recipe with strawberry.
+        Return a Recipe object with recipeName, calories, protein...
+2025-06-06 02:23:38,131 - AIService - DEBUG - Getting response for prompt: Generate a recipe with strawberry.
+        Return a Recipe object with recipeName, calories, protein...
+2025-06-06 02:23:38,131 - AIService - DEBUG - Getting response for prompt: Generate a recipe with strawberry.
+        Return a Recipe object with recipeName, calories, protein...
+2025-06-06 02:23:38,131 - AIService - DEBUG - Output class: Recipe
+2025-06-06 02:23:38,131 - AIService - DEBUG - Output class: Recipe
+2025-06-06 02:23:38,131 - AIService - DEBUG - Output class: Recipe
+2025-06-06 02:23:39,302 - AIService - DEBUG - Response received: [
+  {
+    "recipeName": "Strawberry Smoothie",
+    "calories": 150,
+    "protein": 4,
+    "fats": 2,...
+2025-06-06 02:23:39,302 - AIService - DEBUG - Response received: [
+  {
+    "recipeName": "Strawberry Smoothie",
+    "calories": 150,
+    "protein": 4,
+    "fats": 2,...
+2025-06-06 02:23:39,302 - AIService - DEBUG - Response received: [
+  {
+    "recipeName": "Strawberry Smoothie",
+    "calories": 150,
+    "protein": 4,
+    "fats": 2,...
+2025-06-06 02:23:39,304 - AIService - DEBUG - Recipe generated successfully
+2025-06-06 02:23:39,304 - AIService - DEBUG - Recipe generated successfully
+2025-06-06 02:23:39,304 - AIService - DEBUG - Recipe generated successfully
+2025-06-06 02:23:39,305 - FoodRoutes - DEBUG - Saving recipe query to Firestore
+2025-06-06 02:23:40,255 - FoodRoutes - DEBUG - Removed temporary file: temp_OIP.jpg
+2025-06-06 02:26:09,866 - UserService - DEBUG - Getting user data for user_id: Gcxg1VaLhFbx31JM4mDKwIOqE2u1
+2025-06-06 02:26:09,866 - UserService - DEBUG - Getting user data for user_id: Gcxg1VaLhFbx31JM4mDKwIOqE2u1
+2025-06-06 02:26:10,810 - UserService - DEBUG - User data retrieved successfully: {'ethnicity': 'Asian', 'height': 175, 'goal': 'Lose Weight', 'blood_glucose': 95, 'sex': 'Male', 'smoking_history': 'never', 'location': 'California', 'weight': 75, 'last_metrics': {'bmi': 24.489795918367346, 'macros': {'protein': 204.90829499999998, 'fat': 75.89196111111112, 'carbs': 307.3624425}, 'tdee': 2732.1106, 'bmr': 1762.652, 'bmi_class': 'normal weight', 'calculated_at': DatetimeWithNanoseconds(2025, 6, 4, 18, 0, 54, 885000, tzinfo=datetime.timezone.utc)}, 'heart_disease': 'No', 'age': 30, 'vegan': False, 'activity_level': 'Moderately Active', 'race': 'Asian', 'hba1c': 5.7, 'hypertension': 'No', 'last_login': DatetimeWithNanoseconds(2025, 6, 5, 23, 20, 18, 964000, tzinfo=datetime.timezone.utc)}
+2025-06-06 02:26:10,810 - UserService - DEBUG - User data retrieved successfully: {'ethnicity': 'Asian', 'height': 175, 'goal': 'Lose Weight', 'blood_glucose': 95, 'sex': 'Male', 'smoking_history': 'never', 'location': 'California', 'weight': 75, 'last_metrics': {'bmi': 24.489795918367346, 'macros': {'protein': 204.90829499999998, 'fat': 75.89196111111112, 'carbs': 307.3624425}, 'tdee': 2732.1106, 'bmr': 1762.652, 'bmi_class': 'normal weight', 'calculated_at': DatetimeWithNanoseconds(2025, 6, 4, 18, 0, 54, 885000, tzinfo=datetime.timezone.utc)}, 'heart_disease': 'No', 'age': 30, 'vegan': False, 'activity_level': 'Moderately Active', 'race': 'Asian', 'hba1c': 5.7, 'hypertension': 'No', 'last_login': DatetimeWithNanoseconds(2025, 6, 5, 23, 20, 18, 964000, tzinfo=datetime.timezone.utc)}
+2025-06-06 02:26:10,811 - HealthService - DEBUG - Calculating BMI for person info: {'ethnicity': 'Asian', 'height': 175, 'goal': 'Lose Weight', 'blood_glucose': 95, 'sex': 'Male', 'smoking_history': 'never', 'location': 'California', 'weight': 75, 'last_metrics': {'bmi': 24.489795918367346, 'macros': {'protein': 204.90829499999998, 'fat': 75.89196111111112, 'carbs': 307.3624425}, 'tdee': 2732.1106, 'bmr': 1762.652, 'bmi_class': 'normal weight', 'calculated_at': DatetimeWithNanoseconds(2025, 6, 4, 18, 0, 54, 885000, tzinfo=datetime.timezone.utc)}, 'heart_disease': 'No', 'age': 30, 'vegan': False, 'activity_level': 'Moderately Active', 'race': 'Asian', 'hba1c': 5.7, 'hypertension': 'No', 'last_login': DatetimeWithNanoseconds(2025, 6, 5, 23, 20, 18, 964000, tzinfo=datetime.timezone.utc)}
+2025-06-06 02:26:10,811 - HealthService - DEBUG - BMI calculated: 24.489795918367346, Classification: normal weight
+2025-06-06 02:26:10,812 - HealthService - DEBUG - Calculating energy metrics for person info: {'ethnicity': 'Asian', 'height': 175, 'goal': 'Lose Weight', 'blood_glucose': 95, 'sex': 'Male', 'smoking_history': 'never', 'location': 'California', 'weight': 75, 'last_metrics': {'bmi': 24.489795918367346, 'macros': {'protein': 204.90829499999998, 'fat': 75.89196111111112, 'carbs': 307.3624425}, 'tdee': 2732.1106, 'bmr': 1762.652, 'bmi_class': 'normal weight', 'calculated_at': DatetimeWithNanoseconds(2025, 6, 4, 18, 0, 54, 885000, tzinfo=datetime.timezone.utc)}, 'heart_disease': 'No', 'age': 30, 'vegan': False, 'activity_level': 'Moderately Active', 'race': 'Asian', 'hba1c': 5.7, 'hypertension': 'No', 'last_login': DatetimeWithNanoseconds(2025, 6, 5, 23, 20, 18, 964000, tzinfo=datetime.timezone.utc)}
+2025-06-06 02:26:10,812 - HealthService - DEBUG - Energy metrics calculated - BMR: 1762.65, TDEE: 2732.11
+2025-06-06 02:26:10,812 - HealthService - DEBUG - Calculating macros for person info: {'ethnicity': 'Asian', 'height': 175, 'goal': 'Lose Weight', 'blood_glucose': 95, 'sex': 'Male', 'smoking_history': 'never', 'location': 'California', 'weight': 75, 'last_metrics': {'bmi': 24.489795918367346, 'macros': {'protein': 204.90829499999998, 'fat': 75.89196111111112, 'carbs': 307.3624425}, 'tdee': 2732.1106, 'bmr': 1762.652, 'bmi_class': 'normal weight', 'calculated_at': DatetimeWithNanoseconds(2025, 6, 4, 18, 0, 54, 885000, tzinfo=datetime.timezone.utc)}, 'heart_disease': 'No', 'age': 30, 'vegan': False, 'activity_level': 'Moderately Active', 'race': 'Asian', 'hba1c': 5.7, 'hypertension': 'No', 'last_login': DatetimeWithNanoseconds(2025, 6, 5, 23, 20, 18, 964000, tzinfo=datetime.timezone.utc)}, calories: 2732.1106
+2025-06-06 02:26:10,813 - HealthService - DEBUG - Macros calculated: {'protein': 204.90829499999998, 'fat': 75.89196111111112, 'carbs': 307.3624425}
+2025-06-06 02:26:22,650 - FoodRoutes - DEBUG - Getting macro breakdown for food item: peanuts
+2025-06-06 02:26:22,650 - AIService - DEBUG - Getting macro breakdown for food: peanuts
+2025-06-06 02:26:22,650 - AIService - DEBUG - Getting macro breakdown for food: peanuts
+2025-06-06 02:26:22,650 - AIService - DEBUG - Getting macro breakdown for food: peanuts
+2025-06-06 02:26:22,651 - AIService - DEBUG - Getting response for prompt: Return the macro breakdown of peanuts.
+        Return a list of MacroBreakdown objects with nutrient...
+2025-06-06 02:26:22,651 - AIService - DEBUG - Getting response for prompt: Return the macro breakdown of peanuts.
+        Return a list of MacroBreakdown objects with nutrient...
+2025-06-06 02:26:22,651 - AIService - DEBUG - Getting response for prompt: Return the macro breakdown of peanuts.
+        Return a list of MacroBreakdown objects with nutrient...
+2025-06-06 02:26:22,651 - AIService - DEBUG - Output class: MacroBreakdown
+2025-06-06 02:26:22,651 - AIService - DEBUG - Output class: MacroBreakdown
+2025-06-06 02:26:22,651 - AIService - DEBUG - Output class: MacroBreakdown
+2025-06-06 02:26:23,771 - AIService - DEBUG - Response received: [
+  {
+    "nutrient": "Protein",
+    "amount": "25.8 g"
+  },
+  {
+    "nutrient": "Fat",
+    "amount"...
+2025-06-06 02:26:23,771 - AIService - DEBUG - Response received: [
+  {
+    "nutrient": "Protein",
+    "amount": "25.8 g"
+  },
+  {
+    "nutrient": "Fat",
+    "amount"...
+2025-06-06 02:26:23,771 - AIService - DEBUG - Response received: [
+  {
+    "nutrient": "Protein",
+    "amount": "25.8 g"
+  },
+  {
+    "nutrient": "Fat",
+    "amount"...
+2025-06-06 02:26:23,772 - AIService - DEBUG - Macro breakdown generated successfully
+2025-06-06 02:26:23,772 - AIService - DEBUG - Macro breakdown generated successfully
+2025-06-06 02:26:23,772 - AIService - DEBUG - Macro breakdown generated successfully
+2025-06-06 02:26:23,773 - FoodRoutes - DEBUG - Saving diet query to Firestore
+2025-06-06 02:28:42,534 - UserService - DEBUG - Getting user data for user_id: Gcxg1VaLhFbx31JM4mDKwIOqE2u1
+2025-06-06 02:28:42,534 - UserService - DEBUG - Getting user data for user_id: Gcxg1VaLhFbx31JM4mDKwIOqE2u1
+2025-06-06 02:28:43,500 - UserService - DEBUG - User data retrieved successfully: {'ethnicity': 'Asian', 'height': 175, 'goal': 'Lose Weight', 'blood_glucose': 95, 'sex': 'Male', 'smoking_history': 'never', 'location': 'California', 'weight': 75, 'last_metrics': {'bmi': 24.489795918367346, 'macros': {'protein': 204.90829499999998, 'fat': 75.89196111111112, 'carbs': 307.3624425}, 'bmr': 1762.652, 'tdee': 2732.1106, 'bmi_class': 'normal weight', 'calculated_at': DatetimeWithNanoseconds(2025, 6, 5, 23, 26, 10, 287000, tzinfo=datetime.timezone.utc)}, 'heart_disease': 'No', 'age': 30, 'vegan': False, 'activity_level': 'Moderately Active', 'race': 'Asian', 'hba1c': 5.7, 'hypertension': 'No', 'last_login': DatetimeWithNanoseconds(2025, 6, 5, 23, 20, 18, 964000, tzinfo=datetime.timezone.utc)}
+2025-06-06 02:28:43,500 - UserService - DEBUG - User data retrieved successfully: {'ethnicity': 'Asian', 'height': 175, 'goal': 'Lose Weight', 'blood_glucose': 95, 'sex': 'Male', 'smoking_history': 'never', 'location': 'California', 'weight': 75, 'last_metrics': {'bmi': 24.489795918367346, 'macros': {'protein': 204.90829499999998, 'fat': 75.89196111111112, 'carbs': 307.3624425}, 'bmr': 1762.652, 'tdee': 2732.1106, 'bmi_class': 'normal weight', 'calculated_at': DatetimeWithNanoseconds(2025, 6, 5, 23, 26, 10, 287000, tzinfo=datetime.timezone.utc)}, 'heart_disease': 'No', 'age': 30, 'vegan': False, 'activity_level': 'Moderately Active', 'race': 'Asian', 'hba1c': 5.7, 'hypertension': 'No', 'last_login': DatetimeWithNanoseconds(2025, 6, 5, 23, 20, 18, 964000, tzinfo=datetime.timezone.utc)}
+2025-06-06 02:28:43,500 - HealthService - DEBUG - Checking diabetes risk for user data: {'ethnicity': 'Asian', 'height': 175, 'goal': 'Lose Weight', 'blood_glucose': 95, 'sex': 'Male', 'smoking_history': 'never', 'location': 'California', 'weight': 75, 'last_metrics': {'bmi': 24.489795918367346, 'macros': {'protein': 204.90829499999998, 'fat': 75.89196111111112, 'carbs': 307.3624425}, 'bmr': 1762.652, 'tdee': 2732.1106, 'bmi_class': 'normal weight', 'calculated_at': DatetimeWithNanoseconds(2025, 6, 5, 23, 26, 10, 287000, tzinfo=datetime.timezone.utc)}, 'heart_disease': 'No', 'age': 30, 'vegan': False, 'activity_level': 'Moderately Active', 'race': 'Asian', 'hba1c': 5.7, 'hypertension': 'No', 'last_login': DatetimeWithNanoseconds(2025, 6, 5, 23, 20, 18, 964000, tzinfo=datetime.timezone.utc)}
+2025-06-06 02:28:43,500 - HealthService - DEBUG - Prepared input data for diabetes prediction: {'year': [2022], 'gender': [1], 'age': [30], 'location': [4], 'africanamerican': [0], 'asian': [1], 'caucasian': [0], 'hispanic': [0], 'other': [0], 'hypertension': [0], 'heart_disease': [0], 'smoking_history': [4], 'bmi': [24.489795918367346], 'hbA1c_level': [5.7], 'blood_glucose_level': [95]}
+2025-06-06 02:28:43,558 - HealthService - DEBUG - Diabetes risk prediction: {'prediction': 'no', 'prediction_code': 0}
+2025-06-06 02:31:18,851 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:31:18,851 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:31:18,976 - HealthService - DEBUG - Initializing HealthService
+2025-06-06 02:31:18,976 - HealthService - DEBUG - HealthService initialized with diabetes model and activity level multipliers
+2025-06-06 02:31:18,976 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:31:18,976 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:31:18,976 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:31:18,976 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:31:29,558 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:31:29,558 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:31:29,866 - HealthService - DEBUG - Initializing HealthService
+2025-06-06 02:31:29,867 - HealthService - DEBUG - HealthService initialized with diabetes model and activity level multipliers
+2025-06-06 02:31:29,869 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:31:29,869 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:31:29,870 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:31:29,870 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:33:25,703 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:33:25,704 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:33:25,814 - HealthService - DEBUG - Initializing HealthService
+2025-06-06 02:33:25,815 - HealthService - DEBUG - HealthService initialized with diabetes model and activity level multipliers
+2025-06-06 02:33:25,817 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:33:25,817 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:33:25,817 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:33:25,817 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:33:32,464 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:33:32,466 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:33:32,612 - HealthService - DEBUG - Initializing HealthService
+2025-06-06 02:33:32,614 - HealthService - DEBUG - HealthService initialized with diabetes model and activity level multipliers
+2025-06-06 02:33:32,614 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:33:32,614 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:33:32,615 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:33:32,615 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:34:11,271 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:34:11,272 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:34:11,373 - HealthService - DEBUG - Initializing HealthService
+2025-06-06 02:34:11,373 - HealthService - DEBUG - HealthService initialized with diabetes model and activity level multipliers
+2025-06-06 02:34:11,374 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:34:11,374 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:34:11,374 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:34:11,374 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:34:18,194 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:34:18,194 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:34:18,336 - HealthService - DEBUG - Initializing HealthService
+2025-06-06 02:34:18,336 - HealthService - DEBUG - HealthService initialized with diabetes model and activity level multipliers
+2025-06-06 02:34:18,336 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:34:18,336 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:34:18,343 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:34:18,343 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:40:54,391 - UserService - DEBUG - Getting user data for user_id: Gcxg1VaLhFbx31JM4mDKwIOqE2u1
+2025-06-06 02:40:54,391 - UserService - DEBUG - Getting user data for user_id: Gcxg1VaLhFbx31JM4mDKwIOqE2u1
+2025-06-06 02:40:55,354 - UserService - DEBUG - User data retrieved successfully: {'ethnicity': 'Asian', 'height': 175, 'goal': 'Lose Weight', 'blood_glucose': 95, 'sex': 'Male', 'smoking_history': 'never', 'location': 'California', 'weight': 75, 'last_metrics': {'bmi': 24.489795918367346, 'macros': {'protein': 204.90829499999998, 'fat': 75.89196111111112, 'carbs': 307.3624425}, 'bmr': 1762.652, 'tdee': 2732.1106, 'bmi_class': 'normal weight', 'calculated_at': DatetimeWithNanoseconds(2025, 6, 5, 23, 26, 10, 287000, tzinfo=datetime.timezone.utc)}, 'heart_disease': 'No', 'age': 30, 'vegan': False, 'activity_level': 'Moderately Active', 'race': 'Asian', 'hba1c': 5.7, 'hypertension': 'No', 'last_login': DatetimeWithNanoseconds(2025, 6, 5, 23, 20, 18, 964000, tzinfo=datetime.timezone.utc)}
+2025-06-06 02:40:55,354 - UserService - DEBUG - User data retrieved successfully: {'ethnicity': 'Asian', 'height': 175, 'goal': 'Lose Weight', 'blood_glucose': 95, 'sex': 'Male', 'smoking_history': 'never', 'location': 'California', 'weight': 75, 'last_metrics': {'bmi': 24.489795918367346, 'macros': {'protein': 204.90829499999998, 'fat': 75.89196111111112, 'carbs': 307.3624425}, 'bmr': 1762.652, 'tdee': 2732.1106, 'bmi_class': 'normal weight', 'calculated_at': DatetimeWithNanoseconds(2025, 6, 5, 23, 26, 10, 287000, tzinfo=datetime.timezone.utc)}, 'heart_disease': 'No', 'age': 30, 'vegan': False, 'activity_level': 'Moderately Active', 'race': 'Asian', 'hba1c': 5.7, 'hypertension': 'No', 'last_login': DatetimeWithNanoseconds(2025, 6, 5, 23, 20, 18, 964000, tzinfo=datetime.timezone.utc)}
+2025-06-06 02:40:55,355 - HealthService - DEBUG - Calculating BMI for person info: {'ethnicity': 'Asian', 'height': 175, 'goal': 'Lose Weight', 'blood_glucose': 95, 'sex': 'Male', 'smoking_history': 'never', 'location': 'California', 'weight': 75, 'last_metrics': {'bmi': 24.489795918367346, 'macros': {'protein': 204.90829499999998, 'fat': 75.89196111111112, 'carbs': 307.3624425}, 'bmr': 1762.652, 'tdee': 2732.1106, 'bmi_class': 'normal weight', 'calculated_at': DatetimeWithNanoseconds(2025, 6, 5, 23, 26, 10, 287000, tzinfo=datetime.timezone.utc)}, 'heart_disease': 'No', 'age': 30, 'vegan': False, 'activity_level': 'Moderately Active', 'race': 'Asian', 'hba1c': 5.7, 'hypertension': 'No', 'last_login': DatetimeWithNanoseconds(2025, 6, 5, 23, 20, 18, 964000, tzinfo=datetime.timezone.utc)}
+2025-06-06 02:40:55,355 - HealthService - DEBUG - BMI calculated: 24.489795918367346, Classification: normal weight
+2025-06-06 02:40:55,356 - HealthService - DEBUG - Calculating energy metrics for person info: {'ethnicity': 'Asian', 'height': 175, 'goal': 'Lose Weight', 'blood_glucose': 95, 'sex': 'Male', 'smoking_history': 'never', 'location': 'California', 'weight': 75, 'last_metrics': {'bmi': 24.489795918367346, 'macros': {'protein': 204.90829499999998, 'fat': 75.89196111111112, 'carbs': 307.3624425}, 'bmr': 1762.652, 'tdee': 2732.1106, 'bmi_class': 'normal weight', 'calculated_at': DatetimeWithNanoseconds(2025, 6, 5, 23, 26, 10, 287000, tzinfo=datetime.timezone.utc)}, 'heart_disease': 'No', 'age': 30, 'vegan': False, 'activity_level': 'Moderately Active', 'race': 'Asian', 'hba1c': 5.7, 'hypertension': 'No', 'last_login': DatetimeWithNanoseconds(2025, 6, 5, 23, 20, 18, 964000, tzinfo=datetime.timezone.utc)}
+2025-06-06 02:40:55,356 - HealthService - DEBUG - Energy metrics calculated - BMR: 1762.65, TDEE: 2732.11
+2025-06-06 02:40:55,357 - AIService - DEBUG - Generating health advice for user data: {'ethnicity': 'Asian', 'height': 175, 'goal': 'Lose Weight', 'blood_glucose': 95, 'sex': 'Male', 'smoking_history': 'never', 'location': 'California', 'weight': 75, 'last_metrics': {'bmi': 24.489795918367346, 'macros': {'protein': 204.90829499999998, 'fat': 75.89196111111112, 'carbs': 307.3624425}, 'bmr': 1762.652, 'tdee': 2732.1106, 'bmi_class': 'normal weight', 'calculated_at': DatetimeWithNanoseconds(2025, 6, 5, 23, 26, 10, 287000, tzinfo=datetime.timezone.utc)}, 'heart_disease': 'No', 'age': 30, 'vegan': False, 'activity_level': 'Moderately Active', 'race': 'Asian', 'hba1c': 5.7, 'hypertension': 'No', 'last_login': DatetimeWithNanoseconds(2025, 6, 5, 23, 20, 18, 964000, tzinfo=datetime.timezone.utc)}
+2025-06-06 02:40:55,357 - AIService - DEBUG - Generating health advice for user data: {'ethnicity': 'Asian', 'height': 175, 'goal': 'Lose Weight', 'blood_glucose': 95, 'sex': 'Male', 'smoking_history': 'never', 'location': 'California', 'weight': 75, 'last_metrics': {'bmi': 24.489795918367346, 'macros': {'protein': 204.90829499999998, 'fat': 75.89196111111112, 'carbs': 307.3624425}, 'bmr': 1762.652, 'tdee': 2732.1106, 'bmi_class': 'normal weight', 'calculated_at': DatetimeWithNanoseconds(2025, 6, 5, 23, 26, 10, 287000, tzinfo=datetime.timezone.utc)}, 'heart_disease': 'No', 'age': 30, 'vegan': False, 'activity_level': 'Moderately Active', 'race': 'Asian', 'hba1c': 5.7, 'hypertension': 'No', 'last_login': DatetimeWithNanoseconds(2025, 6, 5, 23, 20, 18, 964000, tzinfo=datetime.timezone.utc)}
+2025-06-06 02:40:55,357 - AIService - DEBUG - Generating health advice for user data: {'ethnicity': 'Asian', 'height': 175, 'goal': 'Lose Weight', 'blood_glucose': 95, 'sex': 'Male', 'smoking_history': 'never', 'location': 'California', 'weight': 75, 'last_metrics': {'bmi': 24.489795918367346, 'macros': {'protein': 204.90829499999998, 'fat': 75.89196111111112, 'carbs': 307.3624425}, 'bmr': 1762.652, 'tdee': 2732.1106, 'bmi_class': 'normal weight', 'calculated_at': DatetimeWithNanoseconds(2025, 6, 5, 23, 26, 10, 287000, tzinfo=datetime.timezone.utc)}, 'heart_disease': 'No', 'age': 30, 'vegan': False, 'activity_level': 'Moderately Active', 'race': 'Asian', 'hba1c': 5.7, 'hypertension': 'No', 'last_login': DatetimeWithNanoseconds(2025, 6, 5, 23, 20, 18, 964000, tzinfo=datetime.timezone.utc)}
+2025-06-06 02:40:55,358 - AIService - DEBUG - Metrics: {'bmi': 24.489795918367346, 'bmi_class': 'normal weight', 'bmr': 1762.652, 'tdee': 2732.1106}
+2025-06-06 02:40:55,358 - AIService - DEBUG - Metrics: {'bmi': 24.489795918367346, 'bmi_class': 'normal weight', 'bmr': 1762.652, 'tdee': 2732.1106}
+2025-06-06 02:40:55,358 - AIService - DEBUG - Metrics: {'bmi': 24.489795918367346, 'bmi_class': 'normal weight', 'bmr': 1762.652, 'tdee': 2732.1106}
+2025-06-06 02:40:55,359 - AIService - DEBUG - Getting response for prompt: 
+        Provide comprehensive health advice for:
+        - 30 year old Male
+        - Height: 175m,...
+2025-06-06 02:40:55,359 - AIService - DEBUG - Getting response for prompt: 
+        Provide comprehensive health advice for:
+        - 30 year old Male
+        - Height: 175m,...
+2025-06-06 02:40:55,359 - AIService - DEBUG - Getting response for prompt: 
+        Provide comprehensive health advice for:
+        - 30 year old Male
+        - Height: 175m,...
+2025-06-06 02:40:55,361 - AIService - DEBUG - Output class: HealthAdvice
+2025-06-06 02:40:55,361 - AIService - DEBUG - Output class: HealthAdvice
+2025-06-06 02:40:55,361 - AIService - DEBUG - Output class: HealthAdvice
+2025-06-06 02:40:58,188 - AIService - DEBUG - Response received: [
+  {
+    "general_recommendations": "Maintain a balanced lifestyle incorporating regular exercise, ...
+2025-06-06 02:40:58,188 - AIService - DEBUG - Response received: [
+  {
+    "general_recommendations": "Maintain a balanced lifestyle incorporating regular exercise, ...
+2025-06-06 02:40:58,188 - AIService - DEBUG - Response received: [
+  {
+    "general_recommendations": "Maintain a balanced lifestyle incorporating regular exercise, ...
+2025-06-06 02:40:58,189 - AIService - DEBUG - Health advice generated successfully
+2025-06-06 02:40:58,189 - AIService - DEBUG - Health advice generated successfully
+2025-06-06 02:40:58,189 - AIService - DEBUG - Health advice generated successfully
+2025-06-06 02:43:53,137 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:43:53,138 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:43:53,236 - HealthService - DEBUG - Initializing HealthService
+2025-06-06 02:43:53,236 - HealthService - DEBUG - HealthService initialized with diabetes model and activity level multipliers
+2025-06-06 02:43:53,236 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:43:53,236 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:43:53,236 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:43:53,236 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:44:38,174 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:44:38,174 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:44:38,314 - HealthService - DEBUG - Initializing HealthService
+2025-06-06 02:44:38,314 - HealthService - DEBUG - HealthService initialized with diabetes model and activity level multipliers
+2025-06-06 02:44:38,316 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:44:38,316 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:44:38,316 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:44:38,316 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:45:17,058 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:45:17,058 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:45:17,333 - HealthService - DEBUG - Initializing HealthService
+2025-06-06 02:45:17,334 - HealthService - DEBUG - HealthService initialized with diabetes model and activity level multipliers
+2025-06-06 02:45:17,335 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:45:17,335 - UserService - DEBUG - Initializing UserService
+2025-06-06 02:45:17,336 - UserService - DEBUG - UserService initialized with Firestore database
+2025-06-06 02:45:17,336 - UserService - DEBUG - UserService initialized with Firestore database

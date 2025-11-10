@@ -1,0 +1,36 @@
+2025-06-16T09:22:50.584208 - app - INFO - Starting application
+Extra: {}
+
+2025-06-16T09:22:50.585219 - app - DEBUG - Calling create_app
+Extra: {}
+
+2025-06-16T09:22:50.585219 - app - INFO - Initializing Flask application
+Extra: {}
+
+2025-06-16T09:22:50.588218 - app - INFO - Validating configuration
+Extra: {}
+
+2025-06-16T09:22:50.590218 - app - ERROR - Error in create_app
+Extra: {}
+Traceback (most recent call last):
+  File "C:\Users\Fanto\Downloads\Nada220961\Nada220961\backend\utils\logger.py", line 91, in wrapper
+    result = func(*func_args, **func_kwargs)
+  File "C:\Users\Fanto\Downloads\Nada220961\Nada220961\backend\app.py", line 27, in create_app
+    Config.validate_config()
+  File "C:\Users\Fanto\Downloads\Nada220961\Nada220961\backend\config.py", line 67, in validate_config
+    raise ValueError(f"Missing required environment variables: {', '.join(missing_vars)}")
+ValueError: Missing required environment variables: FIREBASE_WEB_API_KEY, PALM_API_KEY, CLARIFAI_PAT
+
+2025-06-16T09:22:50.592215 - app - ERROR - Failed to start application
+Extra: {}
+Traceback (most recent call last):
+  File "C:\Users\Fanto\Downloads\Nada220961\Nada220961\backend\app.py", line 67, in <module>
+    app = create_app()
+  File "C:\Users\Fanto\Downloads\Nada220961\Nada220961\backend\utils\logger.py", line 91, in wrapper
+    result = func(*func_args, **func_kwargs)
+  File "C:\Users\Fanto\Downloads\Nada220961\Nada220961\backend\app.py", line 27, in create_app
+    Config.validate_config()
+  File "C:\Users\Fanto\Downloads\Nada220961\Nada220961\backend\config.py", line 67, in validate_config
+    raise ValueError(f"Missing required environment variables: {', '.join(missing_vars)}")
+ValueError: Missing required environment variables: FIREBASE_WEB_API_KEY, PALM_API_KEY, CLARIFAI_PAT
+

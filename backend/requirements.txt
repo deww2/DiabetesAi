@@ -1,0 +1,9 @@
+Flask
+firebase-admin
+google-genai
+pandas
+clarifai
+joblib
+scikit-learn
+flask_cors
+python-dotenv
